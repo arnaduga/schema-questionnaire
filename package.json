@@ -1,0 +1,11 @@
+{
+  "name": "schema-questionnaire",
+  "version": "0.1.0",
+  "description": "A quick script to ask question to generate a JSON from its schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaduga <arnaduga@gmail.com>",
+  "license": "MIT"
+}
